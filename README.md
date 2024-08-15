@@ -1,2 +1,2 @@
-# Practice_React
+# React Learning Series
 Do better
